@@ -23,11 +23,11 @@ div {
 #view-change-button {
   display: inline-block;
   position: absolute;
-  width: 3.125rem;
-  height: 3.125rem;
+  width: 20%;
+  height: 20%;
   border-radius: 1.5625rem;
   background: #AB72F8;
-  top: 0.3125rem;
+  botton: 0.3125rem;
   right: 0.3125rem;
   line-height: 3.125rem;
   vertical-align: middle;
@@ -209,6 +209,18 @@ div {
 
 }
 
+#inputButton {
+  border: 4px;
+  outline: 1px;
+  font-size: 1rem;
+  color: #888a85;  
+  height: 2.5rem;
+  width:2.5rem;
+  padding-left: 0.125rem;
+  margin-bottom: 0.125rem;
+  font-family: Helvetica Neue for IBM, Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
 #textInput.underline {
   border-bottom: 2px solid #00B4A0;
 }
