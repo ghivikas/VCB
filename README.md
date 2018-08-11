@@ -1,5 +1,3 @@
-
-
 This Node.js app demonstrates the Watson Assistant service in a simple chat interface simulating a cognitive virtual Banker.
 
 In this app we will be using angular, javacript and watson assistence services.
